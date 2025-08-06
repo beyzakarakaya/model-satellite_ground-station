@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./ground_station"
+    ]
+}
